@@ -49,9 +49,9 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
 
-Coefficients: [0.00755095 0.00780526]\n
-Intercept: 79.69471929115939\n
-Predicted CO2 for the corresponding weight and volume: [114.75968007]\n
+Coefficients: [0.00755095 0.00780526]<br>
+Intercept: 79.69471929115939<br>
+Predicted CO2 for the corresponding weight and volume: [114.75968007]<br>
 
 
 
